@@ -25,7 +25,7 @@ Create a database for the students in mysql commandline using following Commands
 
 
 Description of the project :
-
+The project is build using Python and tkinter and uses mysql as a database
 Welcome to the Clinic/Hospital Management System! Our system is designed to efficiently store and manage patient data, as well as handle appointment bookings and cancellations. Here are the key features:
 
 1. Patient Database:
