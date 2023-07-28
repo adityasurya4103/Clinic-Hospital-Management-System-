@@ -1,0 +1,13 @@
+IMPORTANT INSTRUCTIONS HOW TO RUN THE PROJECT :-
+
+Run the main.py file In login page 
+	username: abc 
+	password : pqr
+
+Create a database for the students in mysql commandline using following Commands:
+
+	!. CREATE DATABASE PATIENTS_DB;
+
+	2. USE PATIENTS_DB;
+
+	3. CREATE TABLE patients ( MOBILE varchar(200) NOT NULL, NAME varchar(200) NOT NULL, DOB varchar(200) NOT NULL, HISTORY varchar(200) NOT NULL, MEDICINES varchar(200) NOT NULL, PRIMARY KEY (MOBILE) )
